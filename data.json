@@ -1,0 +1,479 @@
+[
+  {
+    "titulo": "A Origem",
+    "ano": "2010",
+    "genero": [
+      "Ação",
+      "Aventura",
+      "Ficção Científica"
+    ],
+    "duracao": "148 min",
+    "pais": [
+      "EUA",
+      "Reino Unido"
+    ],
+    "diretor": [
+      "Christopher Nolan"
+    ],
+    "sinopse": "Dom Cobb é um ladrão habilidoso que rouba segredos valiosos do fundo do subconsciente durante o estado de sonho. Sua rara habilidade o tornou um jogador cobiçado no traiçoeiro mundo da espionagem corporativa, mas também o tornou um fugitivo internacional e lhe custou tudo o que amava.",
+    "imagem": "https://image.tmdb.org/t/p/original/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=brGpPFLH_H4"
+  },
+  {
+    "titulo": "Cidade de Deus",
+    "ano": "2002",
+    "genero": [
+      "Drama",
+      "Crime"
+    ],
+    "duracao": "130 min",
+    "pais": [
+      "Brasil",
+      "França"
+    ],
+    "diretor": [
+      "Fernando Meirelles",
+      "Kátia Lund"
+    ],
+    "sinopse": "Buscapé é um jovem pobre, negro e sensível, que cresce em um universo de muita violência. Ele vive na Cidade de Deus, favela carioca conhecida por ser um dos locais mais violentos da cidade. Amedrontado com a possibilidade de se tornar um bandido, Buscapé é salvo de seu destino por seu talento como fotógrafo.",
+    "imagem": "https://image.tmdb.org/t/p/original/6CovbtzwrTeJh1CxapOOmzmryV9.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=fZJUKixyeXM"
+  },
+  {
+    "titulo": "Parasita",
+    "ano": "2019",
+    "genero": [
+      "Comédia",
+      "Suspense",
+      "Drama"
+    ],
+    "duracao": "132 min",
+    "pais": [
+      "Coreia do Sul"
+    ],
+    "diretor": [
+      "Bong Joon Ho"
+    ],
+    "sinopse": "Toda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Por obra do acaso, ele começa a dar aulas de inglês para uma garota de família rica. Fascinados com a vida luxuosa, pai, mãe e filhos bolam um plano para se infiltrarem, um a um, na abastada família.",
+    "imagem": "https://image.tmdb.org/t/p/original/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=xFCrQy5IXI0"
+  },
+  {
+    "titulo": "O Poderoso Chefão",
+    "ano": "1972",
+    "genero": [
+      "Drama",
+      "Crime"
+    ],
+    "duracao": "175 min",
+    "pais": [
+      "EUA"
+    ],
+    "diretor": [
+      "Francis Ford Coppola"
+    ],
+    "sinopse": "Uma família mafiosa ítalo-americana luta para estabelecer sua supremacia nos Estados Unidos após a Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força seus filhos, Michael e Sonny, a assumirem os negócios da família.",
+    "imagem": "https://image.tmdb.org/t/p/original/u8LAG1JI57U9p0s8TyEEeoykR5d.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=y_-YWEot_7w"
+  },
+  {
+    "titulo": "Pulp Fiction: Tempo de Violência",
+    "ano": "1994",
+    "genero": [
+      "Suspense",
+      "Crime"
+    ],
+    "duracao": "154 min",
+    "pais": [
+      "EUA"
+    ],
+    "diretor": [
+      "Quentin Tarantino"
+    ],
+    "sinopse": "As vidas de dois assassinos de aluguel, um boxeador, a esposa de um gângster e um casal de assaltantes se entrelaçam em quatro contos de violência e redenção.",
+    "imagem": "https://image.tmdb.org/t/p/original/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=im-vRitDbTk"
+  },
+  {
+    "titulo": "A Viagem de Chihiro",
+    "ano": "2001",
+    "genero": [
+      "Animação",
+      "Família",
+      "Fantasia"
+    ],
+    "duracao": "125 min",
+    "pais": [
+      "Japão"
+    ],
+    "diretor": [
+      "Hayao Miyazaki"
+    ],
+    "sinopse": "Chihiro, uma menina de 10 anos, descobre um mundo secreto de deuses, bruxas e monstros, e precisa encontrar coragem para viver e trabalhar entre eles para libertar a si mesma e a seus pais.",
+    "imagem": "https://image.tmdb.org/t/p/original/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=SgZI655GgHk"
+  },
+  {
+    "titulo": "Matrix",
+    "ano": "1999",
+    "genero": [
+      "Ação",
+      "Ficção Científica"
+    ],
+    "duracao": "136 min",
+    "pais": [
+      "EUA"
+    ],
+    "diretor": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "sinopse": "Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a desconfiar da realidade. E quando encontra os misteriosos Morpheus e Trinity, ele descobre que é vítima do Matrix, um sistema que manipula a mente das pessoas.",
+    "imagem": "https://image.tmdb.org/t/p/original/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=mPYfd6PCmYY"
+  },
+  {
+    "titulo": "Forrest Gump: O Contador de Histórias",
+    "ano": "1994",
+    "genero": [
+      "Comédia",
+      "Drama",
+      "Romance"
+    ],
+    "duracao": "142 min",
+    "pais": [
+      "EUA"
+    ],
+    "diretor": [
+      "Robert Zemeckis"
+    ],
+    "sinopse": "Mesmo com o QI abaixo da média, Forrest Gump participa de momentos cruciais da história dos Estados Unidos, como a Guerra do Vietnã e o escândalo de Watergate, mas continua pensando no seu amor de infância, Jenny Curran.",
+    "imagem": "https://image.tmdb.org/t/p/original/bfeIonJ9AGC0kkNK0d69oIyqZMs.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+  },
+  {
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "ano": "2001",
+    "genero": [
+      "Aventura",
+      "Fantasia",
+      "Ação"
+    ],
+    "duracao": "178 min",
+    "pais": [
+      "Nova Zelândia",
+      "EUA"
+    ],
+    "diretor": [
+      "Peter Jackson"
+    ],
+    "sinopse": "Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso, o hobbit Frodo tem um caminho árduo pela frente, onde encontra perigo, medo e seres bizarros.",
+    "imagem": "https://image.tmdb.org/t/p/original/hq45YolNIGtrQZRJdjIRZOyONJa.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=0i86oM1nHjM"
+  },
+  {
+    "titulo": "O Silêncio dos Inocentes",
+    "ano": "1991",
+    "genero": [
+      "Crime",
+      "Suspense",
+      "Drama"
+    ],
+    "duracao": "118 min",
+    "pais": [
+      "EUA"
+    ],
+    "diretor": [
+      "Jonathan Demme"
+    ],
+    "sinopse": "Uma jovem agente do FBI é designada para encontrar um assassino que arranca a pele de suas vítimas. Para entender como ele pensa, ela procura um perigoso psicopata, o Dr. Hannibal Lecter, que está preso sob a acusação de canibalismo.",
+    "imagem": "https://image.tmdb.org/t/p/original/paGUSTwcFrAxpGV1hSQ2wsI28id.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=Mup-6_alA0o"
+  },
+  {
+    "titulo": "Clube da Luta",
+    "ano": "1999",
+    "genero": [
+      "Drama",
+      "Suspense"
+    ],
+    "duracao": "139 min",
+    "pais": [
+      "Alemanha",
+      "EUA"
+    ],
+    "diretor": [
+      "David Fincher"
+    ],
+    "sinopse": "Um homem deprimido que sofre de insônia conhece um estranho vendedor de sabonetes chamado Tyler Durden e se vê morando em uma casa suja depois que seu apartamento perfeito é destruído. A dupla forma um clube com regras rígidas onde homens lutam. A parceria perfeita é comprometida quando uma mulher, Marla, atrai a atenção de Tyler.",
+    "imagem": "https://image.tmdb.org/t/p/original/mCICnh7QBH0gzYaTQChBDDVIKdm.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=eBKvlCf0B4g"
+  },
+  {
+    "titulo": "Interestelar",
+    "ano": "2014",
+    "genero": [
+      "Aventura",
+      "Drama",
+      "Ficção Científica"
+    ],
+    "duracao": "169 min",
+    "pais": [
+      "EUA",
+      "Reino Unido"
+    ],
+    "diretor": [
+      "Christopher Nolan"
+    ],
+    "sinopse": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receber a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos.",
+    "imagem": "https://image.tmdb.org/t/p/original/6ricSDD83BClJsFdGB6x7cM0MFQ.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=i6avfCqKcQo"
+  },
+  {
+    "titulo": "O Resgate do Soldado Ryan",
+    "ano": "1998",
+    "genero": [
+      "Drama",
+      "História",
+      "Guerra"
+    ],
+    "duracao": "169 min",
+    "pais": [
+      "EUA"
+    ],
+    "diretor": [
+      "Steven Spielberg"
+    ],
+    "sinopse": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, capitão Miller recebe a missão de comandar um grupo do segundo batalhão para o resgate do soldado James Ryan, o caçula de quatro irmãos, dentre os quais três morreram em combate.",
+    "imagem": "https://image.tmdb.org/t/p/original/9SykLweWJJ5ISoT52s4Pfmul9DM.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=dcz1Tvsx_f4"
+  },
+  {
+    "titulo": "De Volta para o Futuro",
+    "ano": "1985",
+    "genero": [
+      "Aventura",
+      "Comédia",
+      "Ficção Científica"
+    ],
+    "duracao": "116 min",
+    "pais": [
+      "EUA"
+    ],
+    "diretor": [
+      "Robert Zemeckis"
+    ],
+    "sinopse": "O adolescente Marty McFly é transportado para 1955 em uma máquina do tempo inventada por seu amigo, o cientista Doc Brown. Agora, ele precisa fazer seus pais se apaixonarem para garantir sua existência.",
+    "imagem": "https://image.tmdb.org/t/p/original/i996T0lI1fGtFEowiH3V6eZthL0.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=WAeVzsbEATs"
+  },
+  {
+    "titulo": "Gladiador",
+    "ano": "2000",
+    "genero": [
+      "Ação",
+      "Drama",
+      "Aventura"
+    ],
+    "duracao": "155 min",
+    "pais": [
+      "EUA",
+      "Reino Unido"
+    ],
+    "diretor": [
+      "Ridley Scott"
+    ],
+    "sinopse": "Maximus é um poderoso general romano, amado pelo povo e pelo imperador Marcus Aurelius. Antes de sua morte, o Imperador desperta a ira de seu filho Commodus ao tornar pública a sua predileção em deixar o trono para Maximus. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a viver como um escravo e gladiador.",
+    "imagem": "https://image.tmdb.org/t/p/original/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=2ExwBe4msUw"
+  },
+  {
+    "titulo": "O Iluminado",
+    "ano": "1980",
+    "genero": [
+      "Terror",
+      "Suspense"
+    ],
+    "duracao": "146 min",
+    "pais": [
+      "Reino Unido",
+      "EUA"
+    ],
+    "diretor": [
+      "Stanley Kubrick"
+    ],
+    "sinopse": "Jack Torrance se torna o zelador de inverno do isolado Hotel Overlook, na esperança de curar seu bloqueio de escritor. Ele se instala com sua esposa, Wendy, e seu filho, Danny, que é atormentado por premonições psíquicas. A escrita de Jack não vai a lugar nenhum, e as visões de Danny se tornam mais perturbadoras.",
+    "imagem": "https://image.tmdb.org/t/p/original/7ceEaLciLfksJkSHqp0vLE5eLyy.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=dSQ3yN5yJ0g"
+  },
+  {
+    "titulo": "A Lista de Schindler",
+    "ano": "1993",
+    "genero": [
+      "Drama",
+      "História",
+      "Guerra"
+    ],
+    "duracao": "195 min",
+    "pais": [
+      "EUA"
+    ],
+    "diretor": [
+      "Steven Spielberg"
+    ],
+    "sinopse": "Oskar Schindler, um empresário alemão, gasta toda a sua fortuna para salvar mais de mil judeus dos campos de concentração nazistas durante a Segunda Guerra Mundial.",
+    "imagem": "https://image.tmdb.org/t/p/original/fvPYwfXH513e8Nqe0kzWFm2jjg.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=RczkCbmDWKg"
+  },
+  {
+    "titulo": "Psicose",
+    "ano": "1960",
+    "genero": [
+      "Terror",
+      "Suspense"
+    ],
+    "duracao": "109 min",
+    "pais": [
+      "EUA"
+    ],
+    "diretor": [
+      "Alfred Hitchcock"
+    ],
+    "sinopse": "Uma secretária de Phoenix rouba 40.000 dólares do cliente de seu empregador, foge e pernoita no isolado Bates Motel, administrado por um jovem sob o domínio de sua mãe.",
+    "imagem": "https://image.tmdb.org/t/p/original/lqTVfL68X937Gtd4rlgEmwiDDHI.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=wfGjWZmyvfo"
+  },
+  {
+    "titulo": "Casablanca",
+    "ano": "1942",
+    "genero": [
+      "Drama",
+      "Romance"
+    ],
+    "duracao": "102 min",
+    "pais": [
+      "EUA"
+    ],
+    "diretor": [
+      "Michael Curtiz"
+    ],
+    "sinopse": "Na cidade marroquina de Casablanca, em plena Segunda Guerra, um exilado americano encontra um antigo amor, que precisa de sua ajuda para fugir dos nazistas.",
+    "imagem": "https://image.tmdb.org/t/p/original/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=VWmEkGkBW4w"
+  },
+  {
+    "titulo": "O Fabuloso Destino de Amélie Poulain",
+    "ano": "2001",
+    "genero": [
+      "Comédia",
+      "Romance"
+    ],
+    "duracao": "122 min",
+    "pais": [
+      "França",
+      "Alemanha"
+    ],
+    "diretor": [
+      "Jean-Pierre Jeunet"
+    ],
+    "sinopse": "Amélie é uma jovem inocente e ingênua em Paris com seu próprio senso de justiça. Ela decide ajudar as pessoas ao seu redor e, ao longo do caminho, descobre o amor.",
+    "imagem": "https://image.tmdb.org/t/p/original/81GtiOYId1thLy8ZT9aGrCptch4.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=x66lQBVLT0Q"
+  },
+  {
+    "titulo": "Mad Max: Estrada da Fúria",
+    "ano": "2015",
+    "genero": [
+      "Ação",
+      "Aventura",
+      "Ficção Científica"
+    ],
+    "duracao": "121 min",
+    "pais": [
+      "Austrália",
+      "EUA"
+    ],
+    "diretor": [
+      "George Miller"
+    ],
+    "sinopse": "Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe, ele se vê no meio de uma guerra mortal, iniciada pela Imperatriz Furiosa na tentativa de salvar um grupo de garotas.",
+    "imagem": "https://image.tmdb.org/t/p/original/mtgqrSlT47VsmeMVanLTny7BknB.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=QpsLW5EdAdA"
+  },
+  {
+    "titulo": "O Grande Hotel Budapeste",
+    "ano": "2014",
+    "genero": [
+      "Comédia",
+      "Drama"
+    ],
+    "duracao": "100 min",
+    "pais": [
+      "EUA",
+      "Alemanha"
+    ],
+    "diretor": [
+      "Wes Anderson"
+    ],
+    "sinopse": "As aventuras de Gustave H, um lendário concierge de um famoso hotel europeu no período entre as guerras, e Zero Moustafa, o mensageiro que se torna seu amigo de maior confiança.",
+    "imagem": "https://image.tmdb.org/t/p/original/9bFFixCXZ53AKMpzbvygFVJ0ZLL.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=sF7hAbQR7kk"
+  },
+  {
+    "titulo": "Whiplash",
+    "ano": "2014",
+    "genero": [
+      "Drama",
+      "Música"
+    ],
+    "duracao": "107 min",
+    "pais": [
+      "EUA"
+    ],
+    "diretor": [
+      "Damien Chazelle"
+    ],
+    "sinopse": "Um jovem e promissor baterista se matricula em um conservatório de música onde seus sonhos de grandeza são orientados por um instrutor abusivo que não mede esforços para extrair o potencial de um estudante.",
+    "imagem": "https://image.tmdb.org/t/p/original/dtnzzmGOy2Ni89Ir4I1FTO40FJQ.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=iTgk3WbTErk"
+  },
+  {
+    "titulo": "Blade Runner 2049",
+    "ano": "2017",
+    "genero": [
+      "Ficção Científica",
+      "Drama"
+    ],
+    "duracao": "164 min",
+    "pais": [
+      "EUA",
+      "Reino Unido"
+    ],
+    "diretor": [
+      "Denis Villeneuve"
+    ],
+    "sinopse": "Um novo blade runner, o oficial da polícia de Los Angeles K, descobre um segredo há muito enterrado que tem o potencial de mergulhar o que resta da sociedade no caos. A descoberta de K o leva a uma busca para encontrar Rick Deckard, um ex-blade runner que está desaparecido há 30 anos.",
+    "imagem": "https://image.tmdb.org/t/p/original/49pANIZXRAdHUiWjjBv4vxPeqRC.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=xGwe7D0RKWc"
+  },
+  {
+    "titulo": "O Labirinto do Fauno",
+    "ano": "2006",
+    "genero": [
+      "Fantasia",
+      "Drama",
+      "Guerra"
+    ],
+    "duracao": "118 min",
+    "pais": [
+      "Espanha",
+      "México"
+    ],
+    "diretor": [
+      "Guillermo del Toro"
+    ],
+    "sinopse": "Na Espanha fascista de 1944, a jovem enteada de um sádico oficial do exército escapa para um mundo de fantasia misterioso, mas cativante.",
+    "imagem": "https://image.tmdb.org/t/p/original/7F4L0taqP9AKVa885N8QtcrCAu0.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=0A9TEbbPfik"
+  }
+]

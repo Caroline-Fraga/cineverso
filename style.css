@@ -1,0 +1,315 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Poppins:wght@300;400&family=Prata&display=swap');
+
+/* Estilos gerais */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background: #0a0a0a radial-gradient(circle at top, #1a1a1a 0%, #0a0a0a 40%);
+    color: #cccccc; /* Cinza suave para texto */
+}
+
+/* Cabeçalho */
+header {
+    background-color: transparent;
+    color: white;
+    padding: 20px 40px;
+    border-bottom: 1px solid #c9a461; /* Borda dourada */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    font-family: 'Limelight', cursive;
+    margin: 0;
+    color: #d4af37; /* Dourado Oscar */
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 3.5em;
+    text-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
+}
+
+.search-container {
+    display: flex; /* Usa flexbox para alinhar os itens */
+    justify-content: center;
+    align-items: center;
+}
+
+header input {
+    padding: 10px;
+    padding-right: 40px; /* Adiciona espaço à direita para a lupa */
+    border: 1px solid #555;
+    width: 300px;
+    background-color: #333;
+    color: white;
+    font-family: 'Poppins', sans-serif; /* Garante que a fonte seja a mesma do corpo do texto */
+    transition: border-color 0.3s, box-shadow 0.3s;
+    border-radius: 5px;
+}
+
+header input:focus {
+    outline: none;
+    border-color: #d4af37;
+    box-shadow: 0 0 8px rgba(212, 175, 55, 0.5);
+}
+
+/* Wrapper para o input e a lupa */
+.input-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.input-wrapper i {
+    position: absolute;
+    right: 15px;
+    color: #aaa;
+    pointer-events: none; /* Impede que a lupa interfira com o clique no input */
+}
+
+header button {
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 1px solid #d4af37;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    margin-left: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+header button:hover {
+    background-color: #d4af37;
+    color: #101010;
+}
+
+/* Layout principal com sidebar */
+main {
+    display: flex;
+    align-items: flex-start; /* Alinha os itens no topo */
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Barra Lateral de Filtros */
+.sidebar-filtros {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 220px; /* Largura da barra lateral */
+    flex-shrink: 0; /* Impede que a barra lateral encolha */
+    background-color: #121212;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #222;
+}
+
+.sidebar-filtros h3 {
+    font-family: 'Limelight', cursive;
+    color: #d4af37;
+    margin: 0 0 10px 0;
+    text-align: center;
+    font-size: 1.8em;
+}
+
+.sidebar-filtros select, .sidebar-filtros button {
+    width: 100%;
+    background-color: #333;
+    color: white;
+    border: 1px solid #444;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif; /* Garante que a fonte seja a mesma do corpo do texto */
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.sidebar-filtros select:focus {
+    outline: none;
+    border-color: #d4af37;
+    box-shadow: 0 0 8px rgba(212, 175, 55, 0.5);
+}
+
+.sidebar-filtros button {
+    background-color: #d4af37;
+    color: #101010;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.3s;
+}
+
+.sidebar-filtros button:hover {
+    background-color: #c9a461;
+}
+
+.card-container {
+    display: grid; /* Ativa o layout em grade */
+    grid-template-columns: repeat(3, 1fr); /* Cria 3 colunas de largura igual */
+    align-items: stretch; /* Força todos os cards na mesma linha a terem a mesma altura */
+    gap: 20px; /* Adiciona um espaço de 20px entre os cards */
+    max-width: 1200px; /* Aumenta um pouco para dar mais respiro */
+    margin-left: auto; /* Centraliza o container */
+    margin-right: auto; /* Centraliza o container */
+    flex-grow: 1; /* Permite que o container dos cards ocupe o espaço restante */
+}
+
+/* Estilização de cada Card */
+.card {
+    background: linear-gradient(145deg, #1c1c1c, #121212);
+    border: 1px solid transparent;
+    border-image: linear-gradient(to bottom right, #444, #222) 1;
+    border-radius: 8px;
+    overflow: hidden; /* Garante que a imagem não ultrapasse as bordas arredondadas */
+    box-shadow: 0 8px 16px rgba(0,0,0,0.7); /* Sombra mais dramática */
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+    position: relative;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.9), 0 0 20px rgba(212, 175, 55, 0.4);
+    border-color: rgba(212, 175, 55, 0.5);
+}
+
+.card img {
+    width: 100%; /* A imagem ocupa toda a largura e a altura se ajusta automaticamente */
+    height: 450px; /* Aumenta a altura para dar mais espaço vertical */
+    object-fit: cover; /* Redimensiona a imagem para COBRIR o espaço, mantendo a proporção */
+    object-position: top; /* Alinha a imagem pelo topo, evitando o corte superior */
+    border-radius: 5px;
+    border: 2px solid #222;
+    margin-bottom: 15px;
+}
+
+.card p {
+    font-size: 1em; /* Ajusta o tamanho da fonte dos parágrafos */
+    margin: 5px 0; /* Diminui o espaçamento vertical entre os parágrafos */
+}
+
+.card h2 {
+    /* Garante que o título ocupe o espaço de pelo menos 2 linhas */
+    min-height: 2.5em; /* Ajusta a altura mínima para o título */
+    font-size: 1.4em; /* Aumenta um pouco o tamanho da fonte do título */
+    color: #f5f5f5; /* Título do card branco */
+    font-family: 'Prata', serif;
+}
+
+.card .sinopse {
+    flex-grow: 1; /* Faz a sinopse crescer para ocupar o espaço disponível */
+    margin-bottom: 10px; /* Adiciona um espaço antes do link do trailer */
+    text-align: justify; /* Justifica o texto da sinopse */
+}
+
+.card a {
+    font-family: 'Poppins', sans-serif;
+    display: block;
+    text-align: center;
+    background-color: transparent;
+    color: #d4af37;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    border: 1px solid #d4af37;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.card a:hover {
+    background-color: #d4af37;
+    color: #101010;
+}
+
+/* Rodapé */
+footer {
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    border-top: 1px solid #c9a461; /* Borda dourada superior */
+    font-family: 'Poppins', sans-serif; /* Garante que a fonte seja a mesma do corpo do texto */
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.footer-links a {
+    color: #aaa;
+    text-decoration: none;
+    display: flex; /* Alinha o ícone e o texto na mesma linha */
+    align-items: center; /* Centraliza verticalmente o ícone e o texto */
+    gap: 8px; /* Adiciona um espaço entre o ícone e o texto */
+    transition: color 0.3s; /* Adiciona uma transição suave para a mudança de cor */
+}
+
+.footer-links a:hover {
+    color: #d4af37; /* Muda a cor para dourado ao passar o mouse */
+}
+
+.copyright {
+    color: #888; /* Um cinza mais sutil */
+    font-size: 0.9em;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+/* --- Design Responsivo --- */
+
+/* Para Tablets (até 1024px) */
+@media (max-width: 1024px) {
+    header {
+        flex-direction: column; /* Empilha o título e a busca */
+        gap: 20px;
+        padding: 20px;
+    }
+
+    main {
+        flex-direction: column; /* Empilha a barra de filtros e os cards */
+    }
+
+    .sidebar-filtros {
+        width: 100%;
+        box-sizing: border-box; /* Garante que o padding não aumente a largura */
+        flex-direction: row; /* Deixa os filtros lado a lado */
+        flex-wrap: wrap; /* Permite que os filtros quebrem a linha */
+        justify-content: center;
+    }
+
+    .sidebar-filtros select, .sidebar-filtros button {
+        flex-basis: 180px; /* Define uma largura base para cada filtro */
+    }
+
+    .card-container {
+        grid-template-columns: repeat(2, 1fr); /* 2 colunas de cards */
+        max-width: none; /* Remove a largura máxima para ocupar o espaço */
+    }
+}
+
+/* Para Celulares (até 768px) */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2.5em; /* Diminui o título principal */
+    }
+
+    .search-container {
+        flex-direction: column; /* Empilha a barra de busca e o botão */
+        width: 100%;
+        gap: 10px;
+    }
+
+    .card-container {
+        grid-template-columns: 1fr; /* 1 coluna de cards */
+    }
+}
