@@ -92,8 +92,9 @@ Este projeto está sob a licença MIT.
 
 Desenvolvido com ❤️ por **Caroline Fraga da Silva**.
 
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/caroline-fraga-da-silva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=social)](https://www.linkedin.com/in/caroline-fraga-da-silva/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=social)](https://github.com/Caroline-Fraga)
+
 
 
 
